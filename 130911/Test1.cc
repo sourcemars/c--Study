@@ -1,3 +1,4 @@
+//用于测试C++当中生成字符串，以及获取字符串的长度
 #include <iostream>
 #include <string>
 
